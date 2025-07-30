@@ -1,0 +1,19 @@
+# Ignore Python virtual environments
+env/
+venv/
+mp_env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific files
+.DS_Store
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Logs or junk
+*.log
